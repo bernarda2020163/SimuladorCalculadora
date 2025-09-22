@@ -32,7 +32,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int opcion = 0;
+        int opcion ;
         do {
             System.out.println("--- Calculadora de operaciones básicas---");
             System.out.println("1. SUMAR DOS NÚMEROS");
@@ -110,8 +110,8 @@ public class Main {
                 }
             }
         }
-        /* // Cerramos el Scanner para liberar recursos
-        scanner.close(); */
+        // Cerramos el Scanner para liberar recursos
+        //scanner.close();
 
         // Verificamos si la lista no está vacía antes de procesar
         if (!numeros.isEmpty()) {
