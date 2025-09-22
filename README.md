@@ -1,6 +1,6 @@
 ## PROYECTO TAREA 3 : CALCULADORA
 
-* Desarrollado por __Bernarda Rodríguez__
+* Desarrollado por __Bernarda Rodríguez__, __Romina Parra__ y __Valentina Cartagena__
 * Desarrollado en Java
 
 ####  Crear un programa que simule una calculadora con las siguientes funciones:
