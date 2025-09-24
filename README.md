@@ -17,3 +17,4 @@ Requistos:
 *  Manejo de errores: En operación se debe validar si el divisor es mayor a 0 , para evitar error de cálculo.
 *  Menú interactivo: Usar Scanner para pedir datos al usuario.
 *  GitHub: Subir el proyecto con commits claros.
+
